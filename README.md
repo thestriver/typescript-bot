@@ -1,1 +1,1 @@
-# typescript-bot
+A Discord Bot built with typescript.
